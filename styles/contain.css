@@ -299,6 +299,27 @@ span {
 }
 /* section part 05 close */
 /* section part 06 start */
+.discount-all-content{
+  width: 79%;
+  max-width: 1320px;
+  margin: 30px auto;
+}
+.discount-img{
+  display: flex;
+
+}
+.discount-pic-01{
+  width: 580px;
+  margin-bottom: -60px;
+}
+.discount-pic-02{
+
+
+}
+.discount-pic-03{
+position: relative;
+
+}
 
 /* section part 06 close */
 /* main style start */
