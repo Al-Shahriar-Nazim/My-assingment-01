@@ -1,0 +1,86 @@
+/* body style all  and simillar style start */
+* {
+  padding: 0px;
+}
+/* body style all  and simillar style close*/
+/* header style start */
+.banner-container {
+  width: 79%;
+  max-width: 1320px;
+  margin: 0px auto;
+  margin-top: 50px;
+  font-family: "Merriweather", serif;
+}
+.banner-img {
+  border-radius: 16px;
+  background: linear-gradient(180deg, #020005 0%, rgba(7, 2, 16, 0) 100%);
+  width: 1320px;
+  height: 600px;
+}
+.img-head-small-titel {
+  color: #fff;
+  text-align: center;
+  font-family: "Merriweather", serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -500px;
+  padding-top: 5px;
+}
+.img-head-big-titel {
+  width: 630px;
+  color: #fff;
+  text-align: center;
+  font-family: "Merriweather", serif;
+  font-size: 70px;
+  font-weight: 850pc;
+  line-height: 80px;
+  margin: 0px auto;
+  padding-top: 10px;
+}
+/* header style close */
+/* main style start */
+/* section part 01 start */
+.section-part-1 {
+  margin-top: 400px;
+  width: 430px;
+  margin-left: 700px;
+  width: 79%;
+  max-width: 1320px;
+}
+.section-titel h1 {
+  color: #f00;
+  text-align: center;
+  font-family: "Inter", sans-serif;
+  font-size: 90px;
+  font-weight: 700;
+  margin-top: 120px;
+}
+.section-content p {
+  color: #f00;
+  text-align: center;
+  font-family: "Inter", sans-serif;
+  font-size: 25px;
+  font-weight: 500;
+  margin-top: 48px;
+}
+.section-content h3 {
+  color: #070211;
+  text-align: center;
+  font-family: "Inter", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  margin-top: 3px;
+}
+.img-2 {
+  width: 802.9px;
+  height: 500px;
+  flex-shrink: 0;
+  background: rgb(255, 251, 251);
+  align-items: center;
+  margin-left: 220px;
+  margin-top: 45px;
+}
+/* section part 01 close */
+/* main style start */
