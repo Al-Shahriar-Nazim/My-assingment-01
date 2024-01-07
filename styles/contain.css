@@ -134,6 +134,11 @@ button {
   padding: 16px 32px;
   margin-left: 100px;
   margin-bottom: 140px;
+  cursor: pointer;
+  transition: all 1s;
+}
+button:hover {
+  background-color: blueviolet;
 }
 .midnight-party-content-img {
   margin: 0px auto;
@@ -142,8 +147,8 @@ button {
 /* section part 03 start */
 .time-zone-container {
   margin: 0px auto;
-  width: 78%;
-  max-width: 1315px;
+  width: 79%;
+  max-width: 1320px;
   height: 480px;
   background-color: rgb(255, 233, 233);
   margin-top: 120px;
@@ -167,14 +172,133 @@ span {
   text-transform: capitalize;
   width: 50%;
   margin-left: 390px;
-
-
 }
-
 .time-zone-button {
   margin-left: 500px;
   margin-top: 80px;
+  cursor: pointer;
 }
-/* section part 03 end */
 
+/* section part 03 end */
+/* section part 04 start */
+.offer-container {
+  display: flex;
+  margin: 0px auto;
+  width: 79%;
+  max-width: 1320px;
+  background-color: #f7f3f3;
+  height: 450px;
+  gap: 50px;
+  margin-top: 130px;
+}
+.offer-items {
+  width: 400px;
+  margin-left: 5px;
+}
+.offer-item-titel {
+  color: #f00;
+  text-align: left;
+  font-family: "Inter", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  margin-top: 80px;
+}
+.offer-item-heading {
+  color: #070211;
+  font-family: "Merriweather", serif;
+  font-size: 48px;
+  font-weight: 900;
+  text-transform: capitalize;
+  margin-top: 10px;
+}
+.offer-item-description {
+  width: 393px;
+  color: rgba(7, 2, 17, 0.6);
+
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 32px;
+  margin-top: 15px;
+}
+.offer-image {
+  width: 400px;
+  margin: 40px auto;
+  border-radius: 350px;
+}
+.circle {
+  width: 450px;
+  height: 450px;
+  border-radius: 450px;
+  border: 15px solid #f00;
+  margin-top: -425px;
+  margin-left: -60px;
+}
+
+.happy-new-year {
+  width: 400px;
+}
+.happy-new-year h2 {
+  color: #f00;
+  font-family: "Inter", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+}
+.happy-new-year p {
+  width: 276px;
+  color: rgba(7, 2, 17, 0.6);
+  font-family: "Inter", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 32px;
+  margin-bottom: 43px;
+}
+.happy-new-year-img {
+  width: 140px;
+  height: 140px;
+  margin-top: 38px;
+}
+/* section part 04 close */
+/* section part 05 start */
+.section-part-5 {
+  width: 79%;
+  max-width: 1320px;
+  margin: 0 auto;
+  text-align: center;
+}
+.funtional {
+  color: #070211;
+  font-family: "Inter", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  margin-top: 130px;
+}
+.holiday {
+  color: #070211;
+  font-family: "Merriweather", serif;
+  font-size: 72px;
+  font-weight: 900px;
+  margin-top: 10px;
+}
+.simple-style {
+  color: #f00;
+  text-align: center;
+  font-family: "Merriweather", serif;
+  font-size: 90px;
+  font-weight: 900px;
+  margin-top: 10px;
+}
+.holiday-description {
+  width: 1068px;
+  margin: 0 auto;
+  color: rgba(7, 2, 17, 0.6);
+  text-align: center;
+  font-family: "Inter", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 32px;
+}
+/* section part 05 close */
+/* section part 06 start */
+
+/* section part 06 close */
 /* main style start */
