@@ -43,11 +43,14 @@
 /* main style start */
 /* section part 01 start */
 .section-part-1 {
-  margin-top: 400px;
+  /* margin-top: 400px; */
   width: 430px;
-  margin-left: 700px;
+  /* margin-left: 700px; */
   width: 79%;
   max-width: 1320px;
+  margin: 0px auto;
+  margin-top: 380px;
+
 }
 .section-titel h1 {
   color: #f00;
@@ -55,7 +58,7 @@
   font-family: "Inter", sans-serif;
   font-size: 90px;
   font-weight: 700;
-  margin-top: 120px;
+  /* margin-top: 120px; */
 }
 .section-content p {
   color: #f00;
@@ -63,7 +66,7 @@
   font-family: "Inter", sans-serif;
   font-size: 25px;
   font-weight: 500;
-  margin-top: 48px;
+ margin-top: 40px;
 }
 .section-content h3 {
   color: #070211;
@@ -71,16 +74,14 @@
   font-family: "Inter", sans-serif;
   font-size: 48px;
   font-weight: 700;
-  margin-top: 3px;
+  margin-top: 10px;
 }
 .img-2 {
   width: 802.9px;
   height: 500px;
-  flex-shrink: 0;
   background: rgb(255, 251, 251);
-  align-items: center;
+  margin-top: 40px;
   margin-left: 220px;
-  margin-top: 45px;
 }
 /* section part 01 close */
 /* main style start */
