@@ -320,6 +320,7 @@ span {
 .discount-img {
   display: flex;
   margin-top: -550px;
+
 }
 .discount-pic-01 {
   width: 580px;
@@ -329,7 +330,6 @@ span {
   width: 207px;
   height: 207px;
   margin-bottom: 60px;
-  margin-left: 00px;
 }
 .discount-pic-03 {
   border-radius: 16px 16px 0px 0px;
@@ -337,6 +337,7 @@ span {
   height: 433px;
   margin-top: -115px;
   margin-left: 104px;
+position: sticky;
 }
 /* section part 06 close */
 
@@ -431,7 +432,10 @@ span {
   margin-left: 300px;
   padding-left: 15px;
 }
-.search-subscribe {
+ .search-email::placeholder{
+text-align: center;
+}
+  .search-subscribe {
   width: 210px;
   height: 72px;
   border-radius: 0px 50px 50px 0px;
@@ -444,6 +448,10 @@ span {
   text-transform: capitalize;
   border: none;
   margin-left: -120px;
+  padding: 3px;
+}
+.search-subscribe::placeholder{
+  color: white;
 }
 /* section part 08 close */
 /* main style close */
